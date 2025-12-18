@@ -1,0 +1,54 @@
+{
+  "NFL": {
+    "subreddits": [
+      "nfl", "49ers", "azcardinals", "bengals", "buffalobills", "chibears", "browns", "cowboys", "denverbroncos",
+      "detroitlions", "greenbaypackers", "texans", "colts", "jaguars", "kansascitychiefs", "raiders",
+      "chargers", "losangelesrams", "miamidolphins", "minnesotavikings", "patriots", "saints", "nygiants", "nyjets",
+      "eagles", "steelers", "seahawks", "buccaneers", "tennesseetitans", "commanders", "panthers", "falcons", "ravens"
+    ],
+    "include_keywords": ["Game Thread", "GameThread", "Game Day Thread"],
+    "exclude_keywords": ["Post Game Thread", "Post-Game Thread", "PostGame Thread", "PostGame", "Pre Game Thread", "Pre-Game Thread", "PreGame Thread", "PreGame"]
+  },
+  "NBA": {
+    "subreddits": [
+      "nba", "atlantahawks", "bostonceltics", "GoNets", "charlottehornets", "chicagobulls", "clevelandcavs", "mavericks",
+      "denvernuggets", "detroitpistons", "warriors", "rockets", "pacers", "LAClippers", "lakers", "memphisgrizzlies",
+      "heat", "MkeBucks", "timberwolves", "nolapelicans", "nyknicks", "okcthunder", "orlandomagic", "sixers", "suns",
+      "ripcity", "kings", "nbaspurs", "torontoraptors", "utahjazz", "washingtonwizards"
+    ],
+    "include_keywords": ["Game Thread", "GameThread", "Game Day Thread"],
+    "exclude_keywords": ["Post Game Thread", "Post-Game Thread", "PostGame Thread", "PostGame", "Pre Game Thread", "Pre-Game Thread", "PreGame Thread", "PreGame"]
+  },
+  "MLB": {
+    "subreddits": [
+      "mlb", "angelsbaseball", "azdiamondbacks", "orioles", "Athletics", "Braves", "Brewers", "buccos", "BlueJays",
+      "Cardinals", "CHICubs", "whitesox", "Reds", "ColoradoRockies", "Guardians", "motorcitykitties", "Dodgers",
+      "Marlins", "SFGiants", "Astros", "Royals", "losangelesangels", "Mariners", "NewYorkMets", "Nationals", "Padres",
+      "phillies", "Pirates", "TexasRangers", "TampaBayRays", "Rangers", "redsox", "SFGiants", "Twins", "NYYankees"
+    ],
+    "include_keywords": ["Game Thread", "GameThread", "Game Day Thread"],
+    "exclude_keywords": ["Post Game Thread", "Post-Game Thread", "PostGame Thread", "PostGame", "Pre Game Thread", "Pre-Game Thread", "PreGame Thread", "PreGame"]
+  },
+  "NHL": {
+    "subreddits": [
+      "nhl", "anaheimducks", "coyotes", "BostonBruins", "sabres", "CalgaryFlames", "canes", "hawks", "ColoradoAvalanche",
+      "BlueJackets", "DallasStars", "DetroitRedWings", "EdmontonOilers", "FloridaPanthers", "LAKings", "wildhockey",
+      "Habs", "Predators", "devils", "NewYorkIslanders", "NYRangers", "ottawasenators", "Flyers", "penguins",
+      "SanJoseSharks", "SeattleKraken", "StLouisBlues", "TampaBayLightning", "leafs", "canucks", "goldenknights",
+      "caps", "winnipegjets", "UtahHC"
+    ],
+    "include_keywords": ["Game Thread", "GameThread", "Game Day Thread"],
+    "exclude_keywords": ["Post Game Thread", "Post-Game Thread", "PostGame Thread", "PostGame", "Pre Game Thread", "Pre-Game Thread", "PreGame Thread", "PreGame"]
+  },
+  "MLS": {
+    "subreddits": [
+      "MLS", "AtlantaUnited", "AustinFC", "CharlotteFC", "ChicagoFire", "FCCincinnati", "ColumbusCrew",
+      "ColoradoRapids", "DCUnited", "FCDallas", "HoustonDynamo", "InterMiami", "LAGalaxy", "LAFC", "MNUFC",
+      "NashvilleSC", "NYCFC", "NewEnglandRevolution", "OrlandoCity", "PhillyUnion", "RBNY", "RealSaltLake",
+      "SJEarthquakes", "SoundersFC", "SportingKC", "StLouisCity", "TorontoFC", "VancouverWhitecaps",
+      "CFMontreal", "SanDiegoFC"
+    ],
+    "include_keywords": ["Match Thread", "MatchThread"],
+    "exclude_keywords": ["Post Match Thread", "Post-Match Thread", "PostMatch Thread", "PostMatch", "Pre Match Thread", "Pre-Match Thread", "PreMatch Thread", "PreMatch"]
+  }
+}
