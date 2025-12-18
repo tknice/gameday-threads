@@ -1,0 +1,60 @@
+# Environment variables and secrets
+.env
+config.py
+secrets.*
+
+# User-specific or temporary files
+settings.json
+reddit_tokens.json
+thread_cache.json
+app.log
+*.log.bak
+*.bak
+
+# Python compiled files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/settings.json
+*.swp
+*.swo
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts (if using PyInstaller or similar)
+dist/
+build/
+*.spec
+*.egg-info/
+*.dist
+
+# Testing and coverage
+htmlcov/
+.coverage
+.coverage.*
+pytest_cache/
+.tox/
+
+# Dependency files
+requirements.txt  # OPTIONAL: Ignore if auto-generated; remove if you want to commit
+pip-wheel-metadata/
+
+# Optional: Ignore local EXEs if building in repo
+#*.exe
