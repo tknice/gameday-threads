@@ -60,6 +60,6 @@ Download the latest Windows EXE from the [Releases page](https://github.com/tkni
 Found a bug? Create an issue [here](https://github.com/tknice/gameday-threads/issues).
 
 ## License
-Gameday Threads is proprietary software. Free for browsing; premium commenting requires a one-time $15 license. See the full [End User License Agreement (EULA)](LICENSE.txt) for details.
+Gameday Threads is proprietary software. Free for browsing; premium commenting requires a one-time $15 license. See the full [End User License Agreement (EULA)](license.txt) for details.
 
 © 2025 tknice. All rights reserved. Unauthorized copying prohibited.
