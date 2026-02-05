@@ -1,5 +1,8 @@
 # Gameday Threads
 
+![MLS Midnight](screenshots/MLS-Midnight.png)
+(more screenshots below)
+
 Dive into the heart of the action with Gameday Threads, the streamlined desktop client designed exclusively for sports enthusiasts who live for real-time Reddit game threads. Whether you're tracking an NFL showdown, an NBA thriller, or an MLB classic, this app aggregates live threads from your favorite subreddits into one intuitive interface. Stream comments as they happen, customize your view to match your team's colors, and immerse yourself in the unfiltered energy of fan reactions.
 
 Free to download and use for browsing, the Gameday Threads App lets you discover and follow threads across major leagues like NFL, NBA, MLB, NHL, and MLS. Unlock lifetime premium access for just $15 to enable seamless commenting, turning passive viewing into active participation. Join the conversation, share your hot takes, and become part of the community that makes every game unforgettable.
@@ -58,6 +61,19 @@ Download the latest Windows EXE from the [Releases page](https://github.com/tkni
 
 ## Report Issues
 Found a bug? Create an issue [here](https://github.com/tknice/gameday-threads/issues).
+
+## Screenshots
+![MLS-Midnight-Settings](screenshots/MLS-Midnight-Settings.png)
+
+![MLS-Midnight-Themes](screenshots/MLS-Midnight-Themes.png)
+
+![MLS-Midnight-Threads](screenshots/MLS-Midnight-Threads.png)
+
+![MLS-Dark](screenshots/MLS-Dark.png)
+
+![MLS-Veteran](screenshots/MLS-Veteran.png)
+
+![MLS-Terminal](screenshots/MLS-Terminal.png)
 
 ## License
 Gameday Threads is proprietary software. Free for browsing; premium commenting requires a one-time $15 license. See the full [End User License Agreement (EULA)](license.txt) for details.
