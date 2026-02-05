@@ -3,7 +3,7 @@
 ![MLS Midnight](screenshots/MLS-Midnight.png)
 (more screenshots below)
 
-Dive into the heart of the action with Gameday Threads, the streamlined desktop client designed exclusively for sports enthusiasts who live for real-time Reddit game threads. Whether you're tracking an NFL showdown, an NBA thriller, or an MLB classic, this app aggregates live threads from your favorite subreddits into one intuitive interface. Stream comments as they happen, customize your view to match your team's colors, and immerse yourself in the unfiltered energy of fan reactions.
+Dive into the heart of the action with Gameday Threads, the streamlined desktop client designed exclusively for sports enthusiasts who live for real-time Reddit game threads. Whether you're tracking an NFL showdown, an NBA thriller, or an MLB classic, this app aggregates live threads from your favorite subreddits into one intuitive interface. Stream comments as they happen, customize your view to match your team's colors, and immerse yourself in fan reactions.
 
 Free to download and use for browsing, the Gameday Threads App lets you discover and follow threads across major leagues like NFL, NBA, MLB, NHL, and MLS. Unlock lifetime premium access for just $15 to enable seamless commenting, turning passive viewing into active participation. Join the conversation, share your hot takes, and become part of the community that makes every game unforgettable.
 
