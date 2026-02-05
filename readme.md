@@ -56,7 +56,9 @@ Download the latest Windows EXE from the [Releases page](https://github.com/tkni
 
 ## How to Use
 - Run the EXE.
-- Select a league/thread and stream comments.
+- Select a league on application startup.
+- Select a thread and stream comments.
+- By default, the timeframe to include threads is 12 hours, which will pull in all games or matches happening today. Under Settings > Threads, you can select an older timeframe (in hours) to find more.
 - For help, see settings or report issues below.
 
 ## Report Issues
