@@ -43,7 +43,7 @@ Built with sports fans in mind, this lightweight app runs smoothly on Windows an
 
 - Caching and Retries: Efficient caching of thread lists for 5 minutes and automatic API retries for reliability, with exponential backoff (up to 5 attempts).
 
-- Error Handling and Status Bar: Real-time status bar with colored indicators for loading, streaming, errors (e.g., "Streaming Live", "Loading Comments").
+- Error Handling and Status Bar: Real-time status bar with colored indicators for loading, streaming, errors (e.g., "Streaming", "Loading Comments").
 
 - Accessibility Features: Window resizing, full screen state, scrollbars for comments and settings, etc. are all saved and persist when running the app again.
 
