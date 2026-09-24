@@ -1,0 +1,9 @@
+praw==7.8.0
+prawcore  # already installed transitively via praw, but gameday_threads.py now imports prawcore.exceptions directly (rate-limit-aware backoff), so it's listed explicitly here too
+requests==2.32.5
+argostranslate
+customtkinter
+
+# Optional, not required to run:
+# Pillow — only for inline GIF thumbnails; app falls back to a "View GIF" link without it (PIL_AVAILABLE guard).
+# stanza — only for improved English sentence tokenization before translation; app falls back gracefully without it (see Stanza pre-load try/except).
