@@ -27,6 +27,8 @@ No Warranty. The Software is provided "as is" without warranties. tknice is not 
 
 Updates. Updates are provided at tknice's discretion. Download updated versions via your Gumroad account.
 
+Data Collection. Gameday Threads sends anonymous, aggregate usage data (app version, Free/Premium status, league selection, and operating system) to help guide development. This data is not tied to your Reddit username, email, or license key, and never includes comment content or thread details.
+
 Governing Law. This EULA is governed by the laws of Maryland, USA.
 
 For questions, contact notifygamethreads@gmail.com.
