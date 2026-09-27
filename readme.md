@@ -13,7 +13,7 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
 
 **Multi-Tab Streaming** (Premium) — Stream up to 3 threads at once in separate tabs, each running independently — perfect for following several games at the same time. Drag tabs to reorder them.
 
-**Game Summary** — A detailed popup summarizing the game in progress: a full scoreboard with box score by quarter (and overtime, when it happens), plus a Scoring Summary when the thread includes one. NFL games also get Passing, Rushing, and Receiving Leaders tables when present.
+**Game Summary** — A detailed popup summarizing the game in progress: a full scoreboard with box score by quarter (and overtime, when it happens), a team-by-team stat comparison, a Scoring Summary, and stat-leader tables (Passing/Rushing/Receiving, Points/Rebounds/Assists, etc. depending on the sport) — available for every supported league, not just NFL.
 
 <p>
   <img src="screenshots/game-summary-box-score.png" width="49%" />
