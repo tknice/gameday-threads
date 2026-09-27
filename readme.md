@@ -24,6 +24,8 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
 
 **Multi-Language Translation** — Comments can be translated on the fly into Spanish, French, or Brazilian Portuguese (in addition to English), with an optional language filter to censor profanity for public displays. The entire app UI — menus, dialogs, the Game Summary popup — is translated too, not just the comments.
 
+**Rules & Penalties Reference** — A quick-lookup dialog for "the ref called X, what does that mean/cost." Covers Scoring, Game Basics, Timing & Clock Rules, Overtime, and Common Penalties (Offense/Defense/Either Team) with yardage, down result, and a plain-English description for each — with a separate College Football tab calling out the real NFL-vs-CFB differences (overtime format, clock-stops-on-first-downs, PAT/2-point distances, and the Targeting foul). A live search box filters every row as you type, and a table of contents jumps straight to a section. General quick reference, not the official rulebook. Off the toolbar by default — see Customization below.
+
 ## Customization
 
 - **Themes & Colors** — 15 built-in themes (Dark, Light, Slate, Onyx, Terminal, Veteran, Medieval, Crimson, Copper, Midas, Rose Gold, Sapphire, Emerald, Amethyst, Turquoise), plus custom color pickers for individual UI elements if you want to build your own
@@ -32,6 +34,7 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
 - **GIF Display** — Static thumbnail (default), inline animated playback, or link-only
 - **Favorite Team Support** — Prioritize specific teams with custom color schemes, tracked separately per league (your NFL pick and your College Football pick don't overwrite each other)
 - **Feed Only** — Hides everything but the comment feed and reply box (score banner, thread controls, login status), down to just the stream itself. Toggle it with the Feed Only button or `Ctrl+Shift+S` from anywhere — handy since the button itself is one of the things it hides
+- **Customizable Toolbar** — The "⋮" overflow menu next to the comment toolbar lists secondary functions (Open Thread, Fullscreen, Feed Only, Rules) that you can run directly from the menu, or pin to the toolbar itself for one-click access — click a row's label to run it, click its dot to pin/unpin it.
 
 ## Supported Leagues
 
@@ -44,6 +47,7 @@ Thread discovery, live streaming, game summaries, translation, all customization
 **Premium ($15, one-time)** unlocks:
 - Posting your own comments directly into the thread, rather than just reading along
 - Multi-tab streaming — follow up to 3 threads at once instead of just one
+- Preload — instantly load your Favorite Team's thread (or any team's, via Load Team) with one click, instead of finding and picking it manually every time
 
 Licensed through Gumroad, good for up to 3 device activations.
 
