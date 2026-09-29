@@ -9,7 +9,11 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
 
 **Thread Discovery** — Automatically finds recent game threads using configurable keywords and timeframes (default 12 hours), prioritizing your favorite teams and leagues.
 
+**Post Game Mode** — Toggle thread discovery from live/upcoming threads to post-game/recap threads instead, for catching up on a game you missed.
+
 **Live Comment Streaming** — Real-time comments with adjustable update speed (including an Adaptive Speed mode that automatically slows down during a comment rush so it stays readable, then catches back up as things quiet down), timestamps, author names, upvote scores, and reply indicators showing who each comment is replying to.
+
+**Save Comments** — Right-click the comment feed to copy text or export the active tab's full comment stream to a plain text file (timestamp, author, reply/score info, body) — a record of a big game to keep or share.
 
 **Multi-Tab Streaming** (Premium) — Stream up to 3 threads at once in separate tabs, each running independently — perfect for following several games at the same time. Drag tabs to reorder them.
 
@@ -55,7 +59,7 @@ Licensed through Gumroad, good for up to 3 device activations.
 
 Built with threaded operations to stay responsive, 5-minute caching on thread lists, automatic API retries with backoff, and persistent settings across sessions.
 
-**Usage analytics:** Gameday Threads sends anonymous, aggregate usage data (app version, whether you're on Free or Premium, which league you're using, and your OS) to help guide development — for example, deciding which leagues or features are worth investing more in. This isn't tied to your Reddit username, license key, or email, and never includes comment content or thread details. It's identified only by a random ID generated on your device. Questions about this? Reach out at notifygamethreads@gmail.com.
+**Usage analytics:** Gameday Threads sends anonymous, aggregate usage data — app version, whether you're on Free or Premium, which league and subreddit you're using, your OS, and which features get used (e.g. Rules, Game Summary, multi-tab, language changes) — to help guide development, for example deciding which leagues or features are worth investing more in. This isn't tied to your Reddit username, license key, or email, and never includes comment content or thread details. It's identified only by a random ID generated on your device. Questions about this? Reach out at notifygamethreads@gmail.com.
 
 ## Installation
 
