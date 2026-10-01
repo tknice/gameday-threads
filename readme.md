@@ -9,13 +9,13 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
 
 **Thread Discovery** — Automatically finds recent game threads using configurable keywords and timeframes (default 12 hours), prioritizing your favorite teams and leagues.
 
-**Post Game Mode** — Toggle thread discovery from live/upcoming threads to post-game/recap threads instead, for catching up on a game you missed.
-
 **Live Comment Streaming** — Real-time comments with adjustable update speed (including an Adaptive Speed mode that automatically slows down during a comment rush so it stays readable, then catches back up as things quiet down), timestamps, author names, upvote scores, and reply indicators showing who each comment is replying to.
 
-**Save Comments** — Right-click the comment feed to copy text or export the active tab's full comment stream to a plain text file (timestamp, author, reply/score info, body) — a record of a big game to keep or share.
+**GIF Handling** — Reddit's embedded GIFs show as static thumbnails right in the comment stream by default (click to open the full GIF in your browser). Optionally, have them play automatically inline instead, or reduce them to plain text links instead.
 
 **Multi-Tab Streaming** (Premium) — Stream up to 3 threads at once in separate tabs, each running independently — perfect for following several games at the same time. Drag tabs to reorder them.
+
+**Post Game Mode** — Toggle thread discovery from live/upcoming threads to post-game/recap threads instead, for catching up on a game you missed.
 
 **Game Summary** — A detailed popup summarizing the game in progress: a full scoreboard with box score by quarter (and overtime, when it happens), a team-by-team stat comparison, a Scoring Summary, and stat-leader tables (Passing/Rushing/Receiving, Points/Rebounds/Assists, etc. depending on the sport) — available for every supported league, not just NFL.
 
@@ -24,7 +24,7 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
   <img src="screenshots/game-summary-leaders.png" width="49%" />
 </p>
 
-**GIF Handling** — Reddit's embedded GIFs show as static thumbnails right in the comment stream by default (click to open the full GIF in your browser). Optionally, have them play automatically inline instead, or reduce them to plain text links instead.
+**Save Comments** — Right-click the comment feed to copy text or export the active tab's full comment stream to a plain text file (timestamp, author, reply/score info, body) — a record of a big game to keep or share.
 
 **Multi-Language Translation** — Comments can be translated on the fly into Spanish, French, or Brazilian Portuguese (in addition to English), with an optional language filter to censor profanity for public displays. The entire app UI — menus, dialogs, the Game Summary popup — is translated too, not just the comments.
 
