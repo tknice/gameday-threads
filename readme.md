@@ -7,15 +7,15 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
 
 ## Core Functionality
 
-**Thread Discovery** — Automatically finds recent game threads using configurable keywords and timeframes (default 12 hours), prioritizing your favorite teams and leagues.
+**Thread Discovery** — Automatically finds recent game threads using configurable keywords and timeframes (default 12 hours), prioritizing your favorite teams.
 
 **Live Comment Streaming** — Real-time comments with adjustable update speed (including an Adaptive Speed mode that automatically slows down during a comment rush so it stays readable, then catches back up as things quiet down), timestamps, author names, upvote scores, and reply indicators showing who each comment is replying to.
 
-**GIF Handling** — Reddit's embedded GIFs show as static thumbnails right in the comment stream by default (click to open the full GIF in your browser). Optionally, have them play automatically inline instead, or reduce them to plain text links instead.
+**GIF Handling** — Reddit's embedded GIFs show as static thumbnails in the comment stream by default, with options to play them automatically inline or reduce them to plain text links.
 
 **Multi-Tab Streaming** (Premium) — Stream up to 3 threads at once in separate tabs, each running independently — perfect for following several games at the same time. Drag tabs to reorder them.
 
-**Post Game Mode** — Toggle thread discovery from live/upcoming threads to post-game/recap threads instead, for catching up on a game you missed.
+**Post Game Mode** — Toggle thread discovery from live/upcoming threads to post-game threads.
 
 **Game Summary** — A detailed popup summarizing the game in progress: a full scoreboard with box score by quarter (and overtime, when it happens), a team-by-team stat comparison, a Scoring Summary, and stat-leader tables (Passing/Rushing/Receiving, Points/Rebounds/Assists, etc. depending on the sport) — available for every supported league, not just NFL.
 
@@ -28,7 +28,7 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
 
 **Multi-Language Translation** — Comments can be translated on the fly into Spanish, French, or Brazilian Portuguese (in addition to English), with an optional language filter to censor profanity for public displays. The entire app UI — menus, dialogs, the Game Summary popup — is translated too, not just the comments.
 
-**Rules & Penalties Reference** — A quick-lookup dialog for "the ref called X, what does that mean/cost." Covers Scoring, Game Basics, Timing & Clock Rules, Overtime, and Common Penalties (Offense/Defense/Either Team) with yardage, down result, and a plain-English description for each — with a separate College Football tab calling out the real NFL-vs-CFB differences (overtime format, clock-stops-on-first-downs, PAT/2-point distances, and the Targeting foul). A live search box filters every row as you type, and a table of contents jumps straight to a section. General quick reference, not the official rulebook. Off the toolbar by default — see Customization below.
+**Rules & Penalties Reference** — A quick-lookup dialog for "the ref called X, what does that mean." Covers Scoring, Game Basics, Timing & Clock Rules, Overtime, and Common Penalties (Offense/Defense/Either Team) with yardage, down result, and a plain-English description for each — with a separate College Football tab calling out the real NFL-vs-CFB differences (overtime format, clock-stops-on-first-downs, PAT/2-point distances, and the Targeting foul). A live search box filters every row as you type, and a table of contents jumps straight to a section. General quick reference, not the official rulebook.
 
 ## Customization
 
@@ -38,15 +38,15 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
 - **GIF Display** — Static thumbnail (default), inline animated playback, or link-only
 - **Favorite Team Support** — Prioritize specific teams with custom color schemes, tracked separately per league (your NFL pick and your College Football pick don't overwrite each other)
 - **Feed Only** — Hides everything but the comment feed and reply box (score banner, thread controls, login status), down to just the stream itself. Toggle it with the Feed Only button or `Ctrl+Shift+S` from anywhere — handy since the button itself is one of the things it hides
-- **Customizable Toolbar** — The "⋮" overflow menu next to the comment toolbar lists secondary functions (Open Thread, Fullscreen, Feed Only, Rules) that you can run directly from the menu, or pin to the toolbar itself for one-click access — click a row's label to run it, click its dot to pin/unpin it.
+- **Customizable Toolbar** — The "⋮" overflow menu next to the comment toolbar lists secondary functions (Open Thread, Fullscreen, Feed Only, Rules) that you can run directly from the menu, or pin to the toolbar itself for one-click access — click a row's label to run it, click its dot to pin/unpin it
 
 ## Supported Leagues
 
-NFL, NBA, MLB, NHL, MLS, and College Football (CFB) — including the r/CFB hub plus dedicated subreddits for major programs — each with preset configurations and room for custom subreddits/keywords.
+NFL, NBA, MLB, NHL, MLS, and College Football (CFB) — including dedicated subreddits for each league (e.g. r/nfl, r/nba)
 
 ## Free vs. Premium
 
-Thread discovery, live streaming, game summaries, translation, all customization, and every supported league are free. A free Reddit login is required to stream (this keeps the app within Reddit's API limits as usage grows); no purchase is required for any of it.
+Everything in Gameday Threads is free except the three Premium features below. A free Reddit login is required to stream (this keeps the app within Reddit's API limits as usage grows); no purchase is required for anything else.
 
 **Premium ($15, one-time)** unlocks:
 - Posting your own comments directly into the thread, rather than just reading along
@@ -96,4 +96,4 @@ Found a bug? Create an issue [here](https://github.com/tknice/gameday-threads/is
 
 **License**: Proprietary software, free to use for browsing/streaming; see [license.txt](license.txt) for full terms. Questions: notifygamethreads@gmail.com
 
-© 2025 tknice. All rights reserved. Unauthorized copying prohibited.
+© 2025–2026 tknice. All rights reserved. Unauthorized copying prohibited.
