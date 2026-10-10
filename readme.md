@@ -4,12 +4,14 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
 
 📖 **[Full documentation / User Guide →](../../wiki)** — setup, every feature, and a settings reference, all in one place.
 
-![Streaming in English](screenshots/stream-english.png)
+![Streaming view, with Post-Game Mode active](screenshots/stream-english.png)
 (more screenshots below)
 
 ## Core Functionality
 
-**Thread Discovery** — Automatically finds recent game threads using configurable keywords and timeframes (default 12 hours), prioritizing your favorite teams.
+**Thread Discovery** — Automatically finds recent game threads using configurable keywords and timeframes (default 12 hours), prioritizing your favorite teams. The thread dropdown groups your favorite team's threads at the top, then divides everything else into live and finished threads.
+
+![Thread dropdown, showing favorite-team sorting and the live/finished divider](screenshots/thread-discovery.png)
 
 **Live Comment Streaming** — Real-time comments with adjustable update speed (including an Adaptive Speed mode that automatically slows down during a comment rush so it stays readable, then catches back up as things quiet down), timestamps, author names, upvote scores, and reply indicators showing who each comment is replying to.
 
@@ -39,6 +41,8 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
 - **Display Options** — Toggle timestamps, scores, Compact Mode, and profanity filtering
 - **GIF Display** — Static thumbnail (default), inline animated playback, or link-only
 - **Favorite Team Support** — Prioritize specific teams with custom color schemes, tracked separately per league (your NFL pick and your College Football pick don't overwrite each other)
+
+  ![Favorite Team settings](screenshots/favorite-team-settings.png)
 - **Feed Only** — Hides everything but the comment feed and reply box (score banner, thread controls, login status), down to just the stream itself. Toggle it with the Feed Only button or `Ctrl+Shift+S` from anywhere — handy since the button itself is one of the things it hides
 - **Customizable Toolbar** — The "⋮" overflow menu next to the comment toolbar lists secondary functions (Summary, Open Thread, Fullscreen, Feed Only, Rules) that you can run directly from the menu, or pin to the toolbar itself for one-click access — click a row's label to run it, click its dot to pin/unpin it. The same menu also has a **User Guide** entry linking straight to the [Wiki](../../wiki).
 
@@ -77,7 +81,10 @@ Download the latest release from the [Releases page](../../releases). No install
 ## How to Use
 - Log in with Reddit (bottom right) — a free Reddit account, no special permissions needed. This is required before streaming. Login uses Reddit's own OAuth page, so you authorize the connection there — you never type your Reddit password into this app.
 
-  ![Reddit login required to stream](screenshots/login-required.png)
+  <p>
+    <img src="screenshots/login-required.png" width="49%" />
+    <img src="screenshots/reddit-oauth.png" width="49%" />
+  </p>
 - Select a league on application startup.
 - Select a thread and stream comments.
 - By default, the timeframe to include threads is 12 hours, which will pull in all games or matches happening today. Under Settings > Threads, you can select an older timeframe (in hours) to find more.
@@ -92,7 +99,7 @@ Looking for setup help or a feature walkthrough instead? See the [Wiki](../../wi
 ## Screenshots
 ![Streaming in Spanish](screenshots/stream-spanish.png)
 
-![Language settings](screenshots/settings-language.png)
+![Appearance settings](screenshots/settings-language.png)
 
 ![Theme editor](screenshots/theme-editor.png)
 
