@@ -5,7 +5,7 @@ Last Updated: September 22, 2026
 
 By downloading, installing, or using Gameday Threads ("the Software"), you agree to be bound by the terms of this End User License Agreement ("EULA"). If you do not agree, do not use the Software.
 
-License Grant. tknice grants you a non-exclusive, non-transferable, revocable license to use the Software for personal, non-commercial purposes on a single device, subject to a valid license key purchased via Gumroad. This one-time purchase unlocks commenting features; all other features are free.
+License Grant. Fast Movers, LLC grants you a non-exclusive, non-transferable, revocable license to use the Software for personal, non-commercial purposes on a single device, subject to a valid license key purchased via Gumroad. This one-time purchase unlocks commenting features; all other features are free.
 
 Refunds. All sales are final. Because Gameday Threads' premium unlock is a digital license key delivered instantly upon purchase, no refunds will be issued once a license key has been generated and/or activated on a device. If you experience a technical issue preventing the Software from functioning as described, contact notifygamethreads@gmail.com so the issue can be resolved. This policy does not affect any refund rights you may have under applicable law that cannot be waived by agreement.
 
@@ -19,13 +19,13 @@ Use the Software for commercial purposes or in violation of any laws.
 
 Attempt to bypass or tamper with the license key verification system.
 
-Ownership. The Software is licensed, not sold. All intellectual property rights remain with tknice. The Software is protected by copyright and other laws.
+Ownership. The Software is licensed, not sold. All intellectual property rights remain with Fast Movers, LLC. The Software is protected by copyright and other laws.
 
-Termination. This license terminates if you violate its terms. Upon termination, you must destroy all copies of the Software. tknice may revoke license keys for misuse, detected via Gumroad’s verification system.
+Termination. This license terminates if you violate its terms. Upon termination, you must destroy all copies of the Software. Fast Movers, LLC may revoke license keys for misuse, detected via Gumroad’s verification system.
 
-No Warranty. The Software is provided "as is" without warranties. tknice is not liable for any damages arising from its use.
+No Warranty. The Software is provided "as is" without warranties. Fast Movers, LLC is not liable for any damages arising from its use.
 
-Updates. Updates are provided at tknice's discretion. Download updated versions via your Gumroad account.
+Updates. Updates are provided at Fast Movers, LLC's discretion. Download updated versions via your Gumroad account.
 
 Data Collection. Gameday Threads sends anonymous, aggregate usage data (app version, Free/Premium status, league selection, and operating system) to help guide development. This data is not tied to your Reddit username, email, or license key, and never includes comment content or thread details.
 
@@ -33,4 +33,4 @@ Governing Law. This EULA is governed by the laws of Maryland, USA.
 
 For questions, contact notifygamethreads@gmail.com.
 
-© 2025–2026 tknice. All rights reserved. Unauthorized copying prohibited.
+© 2025–2026 Fast Movers, LLC. All rights reserved. Unauthorized copying prohibited.

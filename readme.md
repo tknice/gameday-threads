@@ -107,4 +107,4 @@ Looking for setup help or a feature walkthrough instead? See the [Wiki](../../wi
 
 **License**: Proprietary software, free to use for browsing/streaming; see [license.txt](license.txt) for full terms. Questions: notifygamethreads@gmail.com
 
-© 2025–2026 tknice. All rights reserved. Unauthorized copying prohibited.
+© 2025–2026 Fast Movers, LLC. All rights reserved. Unauthorized copying prohibited.
