@@ -15,6 +15,8 @@ Stream game day Reddit threads for all of your favorite sports teams — a Windo
 
 **Live Comment Streaming** — Real-time comments with adjustable update speed (including an Adaptive Speed mode that automatically slows down during a comment rush so it stays readable, then catches back up as things quiet down), timestamps, author names, upvote scores, and reply indicators showing who each comment is replying to.
 
+**TV Delay** (Premium) — Reddit usually runs 10–60 seconds ahead of the TV broadcast, so comments spoil plays before you see them. Set a TV Delay (5–120 seconds) next to the speed selector and the comment feed, score banner, and crowd meter all hold back by that much, so the thread lines up with your TV.
+
 **GIF Handling** — Reddit's embedded GIFs show as static thumbnails in the comment stream by default, with options to play them automatically inline or reduce them to plain text links.
 
 **Multi-Tab Streaming** (Premium) — Stream up to 3 threads at once in separate tabs, each running independently — perfect for following several games at the same time. Drag tabs to reorder them.
@@ -52,24 +54,27 @@ NFL, NBA, MLB, NHL, MLS, and College Football (CFB) — including dedicated subr
 
 ## Free vs. Premium
 
-Everything in Gameday Threads is free except the three Premium features below. A free Reddit login is required to stream (this keeps the app within Reddit's API limits as usage grows); no purchase is required for anything else.
+Everything in Gameday Threads is free except the four Premium features below. A free Reddit login is required to stream (this keeps the app within Reddit's API limits as usage grows); no purchase is required for anything else.
 
 **Premium ($15, one-time)** unlocks:
 - Posting your own comments directly into the thread, rather than just reading along
 - Multi-tab streaming — follow up to 3 threads at once instead of just one
 - Preload — instantly load your Favorite Team's thread (or any team's, via Load Team) with one click, instead of finding and picking it manually every time
+- TV Delay — hold the comments and score back so the thread matches your TV broadcast instead of spoiling plays
 
 Licensed through Gumroad, good for up to 3 device activations.
 
 ## Technical Details
 
-Built with threaded operations to stay responsive, 5-minute caching on thread lists, automatic API retries with backoff, and persistent settings across sessions.
+Built with threaded operations to stay responsive, 5-minute caching on thread lists, automatic API retries with backoff, and persistent settings across sessions. Settings, your Reddit login, and your Premium unlock are stored in `%LOCALAPPDATA%\GamedayThreads`, so they carry over when you update to a new version.
 
 **Usage analytics:** Gameday Threads sends anonymous, aggregate usage data — app version, whether you're on Free or Premium, which league and subreddit you're using, your OS, and which features get used (e.g. Rules, Game Summary, multi-tab, language changes) — to help guide development, for example deciding which leagues or features are worth investing more in. This isn't tied to your Reddit username, license key, or email, and never includes comment content or thread details. It's identified only by a random ID generated on your device. Questions about this? Reach out at notifygamethreads@gmail.com.
 
 ## Installation
 
 Download the latest release from the [Releases page](../../releases). No installer required — unzip and run `GamedayThreads.exe`.
+
+**Updating:** unzip the new version anywhere (a new folder is fine) and run it. Your settings, Reddit login, and Premium license carry over automatically. **Coming from 1.4.19 or earlier?** For this one update, unzip 1.4.20 into the same folder as your current version (replacing the old files) and run it once — it copies your settings, Reddit login, and Premium unlock into their new permanent home. From then on, any folder works.
 
 **A note on first launch:** Windows may show a "Windows protected your PC" SmartScreen warning, since this is an independently-developed app not yet signed with a commercial code-signing certificate. This is expected, not a sign anything's wrong. To run it: click **"More info"**, then **"Run anyway."** This only happens once per version.
 
