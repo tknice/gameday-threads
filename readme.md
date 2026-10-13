@@ -1,6 +1,6 @@
 # Gameday Threads
 
-Stream game day Reddit threads for all of your favorite sports teams — a Windows desktop app that pulls live game discussions from major sports subreddits into one clean, readable stream.
+**Watch the game with your subreddit.** Gameday Threads is a Windows app that finds your team's game thread and brings it into one clean, readable window, with the live score right above the comments.
 
 📖 **[Full documentation / User Guide →](../../wiki)** — setup, every feature, and a settings reference, all in one place.
 
